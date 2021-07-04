@@ -1,0 +1,22 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "a place to test javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UygarIlhan/js-test.git"
+  },
+  "author": "Uygar Ilhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UygarIlhan/js-test/issues"
+  },
+  "homepage": "https://github.com/UygarIlhan/js-test#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
